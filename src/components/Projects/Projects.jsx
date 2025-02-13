@@ -14,6 +14,11 @@ export const Projects = () => {
           return <ProjectCard key={id} project={project} />;
         })}
       </div>
+      <div className={styles.btnWrapper}>
+        <a href="#projects" className={styles.contactBtn}>
+          View All Projects
+        </a>
+      </div>
     </section>
   );
 };

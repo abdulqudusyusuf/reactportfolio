@@ -40,6 +40,31 @@
   font-weight: 500;
 }
 
+.skillGroup {
+  background-color: var(--color-bg-alt);
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.category {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: var(--color-primary);
+}
+
+.skillList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.skillItem {
+  font-size: 1rem;
+  margin-bottom: 6px;
+}
+
 .skillHeader {
   display: flex;
   justify-content: space-between;
@@ -47,31 +72,6 @@
   position: relative;
   font-size: 1rem;
   font-weight: 500;
-}
-
-.percentage {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  font-weight: 300;
-  color: white;
-  opacity: 0.5;
-}
-
-.progressBar {
-  width: 100%;
-  height: 10px;
-  background-color: #cccccc;
-  border-radius: 5px;
-  overflow: hidden;
-  position: relative;
-  margin-top: 5px;
-}
-
-.progressFill {
-  height: 100%;
-  background-color: #7e2c30;
-  transition: width 0.5s ease-in-out;
 }
 
 .skill p {

@@ -12,22 +12,18 @@ export const Experience = () => {
       <h2 className={styles.title}>Experience</h2>
       <div className={styles.content}>
         <div className={styles.skills}>
-          {skills.map((skill, id) => {
-            return (
-              <div key={id} className={styles.skill}>
-                <div className={styles.skillHeader}>
-                  <p>{skill.title}</p>
-                  <span className={styles.percentage}>{skill.percentage}%</span>
-                </div>
-                <div className={styles.progressBar}>
-                  <div
-                    className={styles.progressFill}
-                    style={{ width: `${skill.percentage}%` }}
-                  ></div>
-                </div>
-              </div>
-            );
-          })}
+          {skills.map((skillGroup, id) => (
+            <div key={id} className={styles.skillGroup}>
+              <h3 className={styles.category}>{skillGroup.category}</h3>
+              <ul className={styles.skillList}>
+                {skillGroup.items.map((item, index) => (
+                  <li key={index} className={styles.skillItem}>
+                    {item}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
         </div>
         <ul className={styles.history}>
           {history.map((historyItem, id) => {

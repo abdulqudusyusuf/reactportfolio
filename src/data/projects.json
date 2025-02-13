@@ -1,26 +1,44 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "/assets/projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Sales Forecast",
+    "imageSrc": "/forecastingsales.png",
+    "description": "A predictive analysis of sales trends using historical data and statistical modeling",
+    "skills": ["Microsoft Excel", "Tableau", "Python", "SARIMAX"],
+    "source": "https://github.com/abdulqudusyusuf/salesforecast"
   },
   {
-    "title": "Project B",
-    "imageSrc": "/assets/projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Spotify Data Analysis",
+    "imageSrc": "/spotify-music.gif",
+    "description": "Music listening overview based on my Spotify streaming history",
+    "skills": ["Microsoft Excel", "Power BI", "Python", "Pandas"],
+    "source": "https://github.com/abdulqudusyusuf/spotify-data-analysis"
   },
   {
-    "title": "Project C",
-    "imageSrc": "/assets/projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Car Sales Report",
+    "imageSrc": "/carsalesdataset.png",
+    "description": "A Detailed Analysis of Global Car Sales Trends",
+    "skills": ["Microsoft Excel", "Tableau", "Weka"],
+    "source": "https://github.com/abdulqudusyusuf/carsalesreport"
+  },
+  {
+    "title": "Data Jobs Dashboard",
+    "imageSrc": "/data_jobs_dashboard_page1.png",
+    "description": "A Power BI dashboard providing insights into the data jobs market.",
+    "skills": ["Power BI", "Data Visualization", "ETL"],
+    "source": "https://github.com/abdulqudusyusuf/data-jobs-dashboard2.0"
+  },
+  {
+    "title": "House Price Prediction",
+    "imageSrc": "/housepriceprediction.jpg",
+    "description": "Predicting house prices with regression and data analysis.",
+    "skills": ["Python", " Jupyter", "Scikit-learn", "Pandas", "Matplotlib"],
+    "source": "https://github.com/abdulqudusyusuf/king-county-house-price-prediction"
+  },
+  {
+    "title": "SQL Job Analysis",
+    "imageSrc": "/sqljobanalysis.png",
+    "description": "SQL queries exploring trends in data job postings.",
+    "skills": ["SQL", "PostgreSQL/MySQL", "Data Visualization"],
+    "source": "https://github.com/abdulqudusyusuf/sql-project-data-job-analysis"
   }
 ]

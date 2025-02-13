@@ -20,8 +20,8 @@ export const ProjectCard = ({
         })}
       </ul>
       <div className={styles.links}>
-        <a href={demo} className={styles.link}>
-          View In Github
+        <a href={source} className={styles.link}>
+          View on Github
         </a>
       </div>
     </div>

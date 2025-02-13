@@ -11,15 +11,19 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <p>
-                I'm a data scientist passionate about transforming complex data
-                into actionable insights. With expertise in data visualization,
-                predictive modeling, and statistical analysis, I help businesses
-                make smarter decisions. I thrive on solving problems, uncovering
-                trends, and presenting data in ways that drive meaningful
-                outcomes.
+                I'm a data analyst passionate about transforming raw data into
+                actionable insights. Skilled in data visualization, statistical
+                analysis, and SQL, I help businesses make informed decisions. I
+                excel at identifying trends, optimizing processes, and
+                presenting data-driven solutions that drive business growth.
               </p>
-              <a href="#projects" className={styles.resumeBtn}>
-                View My Resume
+              <a
+                href="/Abdulqudus-Resume.pdf"
+                className={styles.resumeBtn}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Download CV
               </a>
             </div>
           </li>

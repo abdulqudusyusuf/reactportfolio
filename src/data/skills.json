@@ -1,35 +1,26 @@
 [
   {
-    "title": "Python",
-    "percentage": 90
+    "category": "Data Analytics & Visualization",
+    "items": ["Power BI", "Tableau", "Looker Studio", "Cognos Analytics"]
   },
   {
-    "title": "SQL",
-    "percentage": 85
-  },
-
-  {
-    "title": "Tableau, Power BI",
-    "percentage": 90
+    "category": "Programming & Automation",
+    "items": ["Python", "SQL", "React", "VBA"]
   },
   {
-    "title": "Data Manipulation",
-    "percentage": 75
+    "category": "Cloud & DevOps",
+    "items": ["Google Cloud", "Azure DevOps", "GitHub"]
   },
   {
-    "title": "Ms Office Packages",
-    "percentage": 90
-  },
-  {
-    "title": "Machine Learning",
-    "percentage": 70
-  },
-  {
-    "title": "R",
-    "percentage": 65
-  },
-  {
-    "title": "React",
-    "percentage": 90
+    "category": "Microsoft Suite & Platforms",
+    "items": [
+      "Excel",
+      "PowerPoint",
+      "Planner",
+      "Forms",
+      "SharePoint",
+      "Power Automate",
+      "Power Apps"
+    ]
   }
 ]
