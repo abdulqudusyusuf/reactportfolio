@@ -21,7 +21,7 @@ export const Contact = () => {
         </li>
         <li className={styles.link}>
           <a
-            href="https://www.linkedin.com/in/abdulqudus-yusuf/"
+            href="https://www.linkedin.com/in/abdulqudusyusuf"
             target="_blank"
             rel="noopener noreferrer"
             alt="LinkedIn"

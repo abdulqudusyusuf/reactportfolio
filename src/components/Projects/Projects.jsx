@@ -15,7 +15,10 @@ export const Projects = () => {
         })}
       </div>
       <div className={styles.btnWrapper}>
-        <a href="#projects" className={styles.contactBtn}>
+        <a
+          href="https://github.com/abdulqudusyusuf"
+          className={styles.contactBtn}
+        >
           View All Projects
         </a>
       </div>

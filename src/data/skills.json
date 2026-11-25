@@ -1,26 +1,32 @@
 [
   {
-    "category": "Data Analytics & Visualization",
-    "items": ["Power BI", "Tableau", "Looker Studio", "Cognos Analytics"]
-  },
-  {
-    "category": "Programming & Automation",
-    "items": ["Python", "SQL", "React", "VBA"]
-  },
-  {
-    "category": "Cloud & DevOps",
-    "items": ["Google Cloud", "Azure DevOps", "GitHub"]
-  },
-  {
-    "category": "Microsoft Suite & Platforms",
+    "category": "BI & Visualization",
     "items": [
-      "Excel",
-      "PowerPoint",
-      "Planner",
-      "Forms",
-      "SharePoint",
-      "Power Automate",
-      "Power Apps"
+      "Tableau",
+      "Power BI (DAX, Power Query)",
+      "Looker Studio",
+      "Excel (PivotTables, Power Query, VBA)"
     ]
+  },
+  {
+    "category": "Programming & Querying",
+    "items": [
+      "Python (Pandas, NumPy, Matplotlib, Scikit-learn)",
+      "SQL (MySQL, PostgreSQL, BigQuery)"
+    ]
+  },
+  {
+    "category": "Analytical Methods",
+    "items": [
+      "Data Cleaning & Validation",
+      "Exploratory Data Analysis",
+      "Forecasting",
+      "Cohort Analysis",
+      "Statistical Analysis"
+    ]
+  },
+  {
+    "category": "Tools & Platforms",
+    "items": ["Git/GitHub", "Jupyter Notebook", "Google Analytics 4"]
   }
 ]

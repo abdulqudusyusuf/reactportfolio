@@ -1,44 +1,56 @@
 [
   {
-    "title": "Sales Forecast",
+    "title": "E-commerce Customer Insights & Retention Analysis",
+    "imageSrc": "/sqljobanalysis.jpeg",
+    "description": "Analysed customer purchasing behaviour, segmented customers by lifetime value and uncovered retention and churn patterns to identify revenue opportunities.",
+    "skills": ["SQL", "PostgreSQL", "Customer Segmentation", "Cohort Analysis"],
+    "source": "https://github.com/abdulqudusyusuf/sql-sales-analysis"
+  },
+  {
+    "title": "Sales Forecasting & Time Series Analysis",
     "imageSrc": "/forecastingsales.png",
-    "description": "A predictive analysis of sales trends using historical data and statistical modeling",
-    "skills": ["Microsoft Excel", "Tableau", "Python", "SARIMAX"],
+    "description": "Analysed historical sales data, identified seasonal trends and developed a SARIMAX forecasting model using GDP as an external variable.",
+    "skills": [
+      "Python",
+      "Pandas",
+      "SARIMAX",
+      "Tableau",
+      "Time Series Analysis"
+    ],
     "source": "https://github.com/abdulqudusyusuf/salesforecast"
   },
   {
-    "title": "Spotify Data Analysis",
-    "imageSrc": "/spotify-music.gif",
-    "description": "Music listening overview based on my Spotify streaming history",
-    "skills": ["Microsoft Excel", "Power BI", "Python", "Pandas"],
-    "source": "https://github.com/abdulqudusyusuf/spotify-data-analysis"
-  },
-  {
-    "title": "Car Sales Report",
+    "title": "Automotive Market & Sales Analysis",
     "imageSrc": "/carsalesdataset.png",
-    "description": "A Detailed Analysis of Global Car Sales Trends",
-    "skills": ["Microsoft Excel", "Tableau", "Weka"],
+    "description": "Explored automotive sales data to identify market trends, analyse vehicle performance and uncover patterns in global car sales.",
+    "skills": ["Microsoft Excel", "Tableau", "Weka", "Data Analysis"],
     "source": "https://github.com/abdulqudusyusuf/carsalesreport"
   },
   {
-    "title": "Data Jobs Dashboard",
+    "title": "Data Jobs Market Insights Dashboard",
     "imageSrc": "/data_jobs_dashboard_page1.png",
-    "description": "A Power BI dashboard providing insights into the data jobs market.",
-    "skills": ["Power BI", "Data Visualization", "ETL"],
+    "description": "Developed an interactive Power BI dashboard analysing data job postings, salary trends, job demand and in-demand technical skills.",
+    "skills": ["Power BI", "DAX", "Power Query", "Data Modelling"],
     "source": "https://github.com/abdulqudusyusuf/data-jobs-dashboard2.0"
   },
   {
-    "title": "House Price Prediction",
+    "title": "House Price Prediction & Analysis",
     "imageSrc": "/housepriceprediction.jpg",
-    "description": "Predicting house prices with regression and data analysis.",
-    "skills": ["Python", " Jupyter", "Scikit-learn", "Pandas", "Matplotlib"],
+    "description": "Applied exploratory data analysis and machine learning techniques to examine housing market factors and predict property prices.",
+    "skills": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "Matplotlib",
+      "Machine Learning"
+    ],
     "source": "https://github.com/abdulqudusyusuf/king-county-house-price-prediction"
   },
   {
-    "title": "SQL Job Analysis",
-    "imageSrc": "/sqljobanalysis.png",
-    "description": "SQL queries exploring trends in data job postings.",
-    "skills": ["SQL", "PostgreSQL/MySQL", "Data Visualization"],
-    "source": "https://github.com/abdulqudusyusuf/sql-project-data-job-analysis"
+    "title": "Spotify Listening Behaviour & Music Trends Analysis",
+    "imageSrc": "/spotify-music.gif",
+    "description": "Analysed personal Spotify streaming history to uncover listening habits, track music consumption and identify top artists and songs through an interactive dashboard.",
+    "skills": ["Python", "Pandas", "Microsoft Excel", "Power BI"],
+    "source": "https://github.com/abdulqudusyusuf/spotify-data-analysis"
   }
 ]

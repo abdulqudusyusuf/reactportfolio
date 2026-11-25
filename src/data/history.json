@@ -1,31 +1,22 @@
 [
   {
-    "role": "Business Intelligence Analyst",
+    "role": "Data Analyst",
     "organisation": "Hi-Cube Global Group Limited",
-    "startDate": " July, 2023",
+    "startDate": "January, 2025",
     "endDate": "Present",
     "experiences": [
-      "Built Tableau dashboards to track financial performance and resource allocation, improving executive decision-making at Hi-Cube Global.",
-      "Automated financial reporting using Python, reducing manual work by 40% and improving accuracy"
+      "Built and maintained 7 Tableau dashboards tracking financial and operational KPIs, saving approximately 12 hours of manual reporting per week.",
+      "Optimised SQL queries and analysed business datasets to identify operational inefficiencies, contributing to a 15% reduction in project expenses and a 35% improvement in query execution time."
     ]
   },
   {
     "role": "Data Analyst Intern",
     "organisation": "Hi-Cube Global Group Limited",
-    "startDate": " January, 2023",
-    "endDate": "June, 2023",
+    "startDate": "September, 2024",
+    "endDate": "December, 2024",
     "experiences": [
-      "Conducted exploratory data analysis (EDA) on large datasets to identify trends and insights using Python and SQL. ",
-      "Assisted in the creation of interactive dashboards and reports using tableau for stakeholders to support decision-making process. "
-    ]
-  },
-  {
-    "role": "Freelance Developer",
-    "organisation": "Self-Employed",
-    "startDate": "August, 2021",
-    "endDate": " December, 2022",
-    "experiences": [
-      "Designed and optimized websites for businesses, enhancing user engagement through data-driven insights."
+      "Conducted exploratory data analysis and prepared recurring reports from operational and business datasets to identify trends and support management decisions.",
+      "Gained hands-on experience using Power BI, SQL and Excel to clean, analyse and visualise data through interactive dashboards and reports."
     ]
   }
 ]

@@ -11,19 +11,22 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <p>
-                I'm a data analyst passionate about transforming raw data into
-                actionable insights. Skilled in data visualization, statistical
-                analysis, and SQL, I help businesses make informed decisions. I
-                excel at identifying trends, optimizing processes, and
-                presenting data-driven solutions that drive business growth.
+                I'm a Data Analyst with over 2 years of experience working with
+                data to uncover insights and support better business decisions.
+                I work with SQL, Python, Power BI and Tableau to analyse
+                datasets, build interactive dashboards, identify trends and
+                communicate findings. My experience spans business intelligence,
+                financial and operational analysis, and data-driven
+                problem-solving, with a focus on turning complex data into
+                clear, actionable insights.
               </p>
               <a
-                href="/Abdulqudus-Resume.pdf"
-                className={styles.resumeBtn}
+                href="/Abdulqudus_CV.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
+                className={styles.resumeBtn}
               >
-                Download CV
+                View CV
               </a>
             </div>
           </li>

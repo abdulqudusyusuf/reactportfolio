@@ -12,16 +12,16 @@ export const Experience = () => {
       <h2 className={styles.title}>Experience</h2>
       <div className={styles.content}>
         <div className={styles.skills}>
-          {skills.map((skillGroup, id) => (
-            <div key={id} className={styles.skillGroup}>
-              <h3 className={styles.category}>{skillGroup.category}</h3>
-              <ul className={styles.skillList}>
-                {skillGroup.items.map((item, index) => (
-                  <li key={index} className={styles.skillItem}>
+          {skills.map((group, id) => (
+            <div key={id} className={styles.skillCard}>
+              <h3 className={styles.skillCategory}>{group.category}</h3>
+              <div className={styles.skillItems}>
+                {group.items.map((item, idx) => (
+                  <span key={idx} className={styles.skillTag}>
                     {item}
-                  </li>
+                  </span>
                 ))}
-              </ul>
+              </div>
             </div>
           ))}
         </div>

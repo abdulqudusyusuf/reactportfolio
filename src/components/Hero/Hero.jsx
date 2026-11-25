@@ -9,7 +9,7 @@ export const Hero = () => {
         <h3 className={styles.minititle}>DATA ANALYST</h3>
         <h1 className={styles.title}>Hi, I'm Abdulqudus</h1>
         <p className={styles.description}>
-          Leveraging Data to Drive Business Growth & Strategic Decision-Making
+          Turning Data into Insights That Drive Smarter Business Decisions
         </p>
         <a href="#projects" className={styles.contactBtn}>
           View My Work
